@@ -88,7 +88,7 @@ const CheckPasswordPage = () => {
                             required
                         />  
                     </div>
-                    <button className='bg-primay text-lg text-gray-600 px-4 py-1 hover:bg-secondary hover:text-white rounded mt-2 font-bold leading-relaxed tracking-wider'>
+                    <button className='bg-indigo-500 text-white text-lg px-4 py-[10px] rounded-lg hover:bg-indigo-600 transition duration-200 mt-[10px] font-bold'>
                         Let's Go
                     </button>
                 </form>
